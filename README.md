@@ -1,5 +1,5 @@
 
-# MERN E-commerce Platform
+#E-commerce Website
 
 ![E-commerce Banner](frontend/public/logo192.png)
 
